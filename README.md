@@ -4,34 +4,28 @@
   <br />
   <br />
 
-  <samp>
-    K A R A N &nbsp; L A L W A N I<br />
-    BACKEND SYSTEMS &nbsp;·&nbsp; DISTRIBUTED DESIGN &nbsp;·&nbsp; APPLIED AI
-  </samp>
-
-  <br />
-  <br />
-
-  <a href="https://github.com/KaranLalwani-dev">github</a>
-  &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/karan-lalwani-profile">linkedin</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:karanlalwani2086@gmail.com">email</a>
+<a href="https://github.com/KaranLalwani-dev">github</a>
+&nbsp;·&nbsp;
+<a href="https://linkedin.com/in/karan-lalwani-profile">linkedin</a>
+&nbsp;·&nbsp;
+<a href="https://leetcode.com/u/Karan2068k/">leetcode</a>
+&nbsp;·&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/karanlalw57bg">geeksforgeeks</a>
+&nbsp;·&nbsp;
+<a href="mailto:karanlalwani2086@gmail.com">email</a>
 </div>
 
 <br />
 
-> Build quietly. Measure carefully. Keep the system clear.
+> Fewer moving parts. Fewer surprises.
 
-I am a Computer Science student specialising in Cybersecurity at Manipal Institute of Technology, Bengaluru. I work on backend services and AI-enabled platforms - the less visible parts of a product where routing, data access, retries, and service boundaries decide whether it stays dependable.
+I'm a Computer Science student at Manipal Institute of Technology, Bengaluru.
 
 ---
 
-## The line I keep clear
+## What I actually care about
 
-I am interested in systems that have to coordinate under real constraints: distributed workflows, reliable state changes, useful AI integrations, and performance work that can be measured rather than assumed.
-
-The question behind most of my work is simple: **when the load rises or a dependency fails, does the path through the system still make sense?**
+Building software that actually solves the problem in front of it. Not the impressive version, not the version with more moving parts — the one that works.
 
 ---
 
@@ -62,7 +56,7 @@ A platform for students to create activity-based groups, request membership, and
 
 ---
 
-## Instruments, not decoration
+## Stack
 
 ```text
 language         Java
@@ -78,9 +72,9 @@ workflow         JUnit · Postman · Git · Maven · Netlify · Render
 ## Ground
 
 ```text
-B.Tech, Computer Science - Cybersecurity
+B.Tech, Computer Science
 Manipal Institute of Technology, Bengaluru
-Expected May 2028 · GPA 8.54
+Expected May 2028
 ```
 
 The foundation underneath my work: operating systems, database systems, computer networks, data structures and algorithms, and object-oriented programming.
