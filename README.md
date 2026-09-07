@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/quiet-altitude.png" width="100%" alt="" />
+  <img src="assets/quiet-altitude.png" width="100%" alt="" />
 
   <br />
   <br />
