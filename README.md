@@ -17,8 +17,6 @@
 
 <br />
 
-> Fewer moving parts. Fewer surprises.
-
 I'm a Computer Science student at Manipal Institute of Technology, Bengaluru.
 
 ---
