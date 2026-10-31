@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/quiet-altitude.png" width="100%" alt="" />
+  <img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/dd79e291-e834-4cde-81cf-72f72a65099d" />
 
   <br />
   <br />
