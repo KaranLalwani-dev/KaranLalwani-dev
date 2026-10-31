@@ -4,7 +4,7 @@
   <br />
   <br />
 
-<a href="https://github.com/KaranLalwani-dev">github</a>
+<a href="https://drive.google.com/file/d/1zjLzlTLAAJjhc9p3G2vjhOlX1YuMbRXb/view?usp=drive_link">resume</a>
 &nbsp;·&nbsp;
 <a href="https://linkedin.com/in/karan-lalwani-profile">linkedin</a>
 &nbsp;·&nbsp;
@@ -18,17 +18,17 @@
 <br />
 
 I'm a Computer Science student at Manipal Institute of Technology, Bengaluru, and a Research Executive at the college's ACM Student Chapter.
- 
+
 I'm interested in designing solutions to real problems. An effective solution starts with understanding the problem well and making sure the design addresses its core requirements. Software implementation is how a solution becomes accessible to everyone. Frameworks, algorithms, data structures and machine learning techniques are just tools to implement the designed solution.
- 
+
 ---
- 
+
 ## Education
- 
+
 ```text
 B.Tech, Computer Science
 Manipal Institute of Technology, Bengaluru
 CGPA 8.54 · Expected May 2028
 ```
- 
+
 Core CS: Operating Systems, Database Systems, Computer Networks, Data Structures & Algorithms, Object-Oriented Programming.
