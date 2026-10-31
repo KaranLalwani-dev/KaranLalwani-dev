@@ -12,45 +12,14 @@
 &nbsp;·&nbsp;
 <a href="https://www.geeksforgeeks.org/profile/karanlalw57bg">geeksforgeeks</a>
 &nbsp;·&nbsp;
-<a href="mailto:karanlalwani2086@gmail.com">email</a>
+<a href="mailto:karan12068k@gmail.com">email</a>
 </div>
 
 <br />
 
-I'm a Computer Science student at Manipal Institute of Technology, Bengaluru.
+I'm a Computer Science student at Manipal Institute of Technology, Bengaluru, and a Research Executive at the college's ACM Student Chapter.
 
----
-
-## What I actually care about
-
-Building software that actually solves the problem in front of it. Not the impressive version, not the version with more moving parts — the one that works.
-
----
-
-## Systems in focus
-
-### Design Forge
-
-`AI-powered distributed code generation platform` &nbsp; `Nov 2025 - Jul 2026`
-
-A platform that generates frontend web applications from natural-language prompts. I designed the infrastructure behind the generated result:
-
-- Built microservices with Spring Boot, Spring AI, Kafka, PostgreSQL, Redis, MinIO, Docker, Kubernetes, and Google Kubernetes Engine.
-- Built a custom reverse proxy for wildcard subdomain routing, sending ephemeral generated apps to their internal services.
-- Designed a choreography-based Saga flow over Kafka to persist generated files with failure handling and idempotent retries.
-- Used LLM tool calling to reduce prompt context and improve code-generation latency.
-- Wrote JUnit tests for core service logic and validated inter-service APIs with Postman.
-
-### Unicircle
-
-`Campus activity discovery platform` &nbsp; `Mar 2026 - May 2026`
-
-A platform for students to create activity-based groups, request membership, and find people through focused filters.
-
-- Designed a 3NF relational schema and dynamic filtering by keyword, tags, and creator profile.
-- Secured endpoints with stateless JWT authentication.
-- Investigated an N+1 query path that caused more than 40 database round-trips per request; reduced it to 6 through batching and eager loading while keeping database-level pagination.
-- Load-tested from 5 to 1,000 virtual users. At 400 concurrent users, the fix reduced p95 latency from **2.02s to 39ms**.
+I'm interested in designing solutions to real problems. An effective solution starts with understanding the problem well and making sure the design addresses its core requirements. Software implementation is how a solution becomes accessible to everyone. Frameworks, algorithms, data structures and machine learning techniques are just tools to implement the designed solution.
 
 ---
 
@@ -59,26 +28,21 @@ A platform for students to create activity-based groups, request membership, and
 ```text
 language         Java
 
-backend          Spring Boot · Spring AI · PostgreSQL · Redis · Kafka
-AI systems       Tool Calling · RAG · Vector Stores · OpenRouter
-infrastructure   Docker · Kubernetes · Google Cloud · MinIO
-workflow         JUnit · Postman · Git · Maven · Netlify · Render
+backend          Spring Boot · Spring Cloud
+data             PostgreSQL · Redis · Kafka · MinIO
+LLM integration  Spring AI · Tool Calling · SSE Streaming · OpenRouter
+infrastructure   Docker · Kubernetes · Google Cloud (GKE) · GitHub Actions
+workflow         Git · Maven · JUnit · Postman
 ```
 
 ---
 
-## Ground
+## Education
 
 ```text
 B.Tech, Computer Science
 Manipal Institute of Technology, Bengaluru
-Expected May 2028
+CGPA 8.54 · Expected May 2028
 ```
 
-The foundation underneath my work: operating systems, database systems, computer networks, data structures and algorithms, and object-oriented programming.
-
-<br />
-
-<div align="center">
-  <sub>Less noise. Better boundaries. Systems that hold their shape.</sub>
-</div>
+Core CS: Operating Systems, Database Systems, Computer Networks, Data Structures & Algorithms, Object-Oriented Programming.
