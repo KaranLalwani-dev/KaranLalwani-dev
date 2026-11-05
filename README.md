@@ -21,6 +21,8 @@ I'm a Computer Science student at Manipal Institute of Technology, Bengaluru, an
 
 I'm interested in designing solutions to real problems. An effective solution starts with understanding the problem well and making sure the design addresses its core requirements. Software implementation is how a solution becomes accessible to everyone. Frameworks, algorithms, data structures and machine learning techniques are just tools to implement the designed solution.
 
+currently exploring stable coins market, applications. 
+
 ---
 
 ## Education
